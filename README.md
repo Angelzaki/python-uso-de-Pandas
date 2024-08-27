@@ -46,25 +46,7 @@ plt.title('Distribución de Edades')
 plt.show()
 Usa el código con precaución.
 
-Contribuciones
-Las contribuciones son bienvenidas. Si encuentras algún error o deseas agregar nuevas funcionalidades, por favor, abre un issue o crea un pull request.
 
-Licencia
-[Indica la licencia que utilizas, por ejemplo, MIT]
-
-Adapta este README a tu proyecto:
-
-Personaliza el título y la descripción: Describe de forma clara y concisa el objetivo de tu proyecto.
-Actualiza el contenido: Lista los notebooks, archivos de datos y otros recursos que incluyas.
-Añade instrucciones específicas: Si tu proyecto requiere pasos de instalación o configuración adicionales, inclúyelos.
-Incluye más ejemplos de código: Muestra fragmentos de código relevantes para tu análisis.
-Especifica la licencia: Elige una licencia adecuada para tu proyecto y agrégala al README.
-Otras secciones que puedes considerar:
-
-Autores: Menciona a los autores del proyecto.
-Agradecimientos: Agradece a quienes hayan contribuido.
-Referencias: Cita las fuentes utilizadas.
-Consejos adicionales:
 
 Usa Markdown: Markdown es un lenguaje de marcado ligero que facilita la creación de documentos formateados en GitHub.
 Organiza el contenido: Utiliza encabezados, listas y código para estructurar tu README de forma clara.
