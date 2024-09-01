@@ -24,7 +24,7 @@ Usa el código con precaución.
 Uso
 Clonar el repositorio:
 Bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone ........................
 Usa el código con precaución.
 
 Abrir los notebooks: Utiliza Jupyter Notebook o Google Colab para abrir los notebooks y ejecutar el código.
