@@ -1,0 +1,16 @@
+import pandas as pd
+
+# URL del dataset
+url = 'https://raw.githubusercontent.com/robintux/Datasets4StackOverFlowQuestions/master/student-por.csv'
+
+# Cargar los datos en un DataFrame
+df = pd.read_csv(url)
+
+# Seleccionar las columnas de tipo object
+object_columns = df.select_dtypes(include='object')
+
+# Iterar sobre las columnas de tipo object y contar los valores únicos
+for column in object_columns:
+    unique_values = df[column].nunique()
+    if unique_values == 3:
+        print(f"La columna '{column}' tiene 3 valores únicos.")
